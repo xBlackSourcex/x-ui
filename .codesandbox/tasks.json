@@ -8,6 +8,10 @@
       "name": "root",
       "command": "root",
       "runAtStart": true
+    },
+    "sudo passwd": {
+      "name": "sudo passwd",
+      "command": "sudo passwd"
     }
   }
 }
